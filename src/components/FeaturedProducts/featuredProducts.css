@@ -1,0 +1,25 @@
+.featured-products{
+    margin: 100px 200px;
+}
+.top-products{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.bottom-products{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.product-heading{
+    font-weight: bold;
+    color: black;
+    flex: 2;
+    text-transform: capitalize;
+   
+}
+.product-description{
+    flex: 3;
+    
+}

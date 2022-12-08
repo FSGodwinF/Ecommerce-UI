@@ -1,0 +1,38 @@
+.contact{
+  background: rgb(255, 81, 0);
+  color: white;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  
+  
+
+}
+.contact-wrapper{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.contact-span{
+    color: white;
+    font-weight: 500;
+}
+.contact-input{
+    padding: 10px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+}
+.contact-button{
+    padding: 10px;
+    color: white;
+    background: black;
+    border-radius: 0 5px 5px 0;
+    border: none;
+    cursor: pointer;
+}
+.contact-socials{
+    display: flex;
+    gap: 10px;
+}
